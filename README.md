@@ -1,4 +1,4 @@
-# Information-based Gradient Enhanced Causal Learning Graph Neural Network for Out-of-Distribution Fault Diagnosis of Complex Industrial Processes
+# Information-based Gradient Enhanced Causal Learning Graph Neural Network for Fault Diagnosis of Complex Industrial Processes
 
 ## 实验环境
 
